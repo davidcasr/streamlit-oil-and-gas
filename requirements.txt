@@ -1,0 +1,9 @@
+geopandas
+folium
+streamlit
+streamlit_folium
+pandas
+numpy
+matplotlib
+lasio
+welly
