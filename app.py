@@ -18,7 +18,7 @@ st.markdown(
 
 st.markdown(
     """
-    Made with ❤️ by [@davidcasr](https://www.davidcasr.co)
+    Made with ❤️ by [@davidcasr](https://www.davidcasr.com)
     """
 )
 
